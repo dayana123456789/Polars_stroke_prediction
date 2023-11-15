@@ -25,8 +25,11 @@ This project is actively under development, and contributions are welcome. Check
 Special thanks to the Polars community for their powerful data manipulation library.
 
 Author
+
 Dayana Vincent
+
 Masters in Data Science
+
 Feel free to reach out for questions or collaboration opportunities!
 
 
