@@ -3,7 +3,7 @@
 Overview
 Welcome to the Stroke Prediction Project! This project focuses on predicting strokes efficiently using Polars DataFrames, avoiding the conventional use of Pandas for streamlined data processing and analysis.
 
-Project Highlights
+**Project Highlights**
 
 Efficient Data Handling: Utilizing the speed and scalability of Polars DataFrames for efficient data processing.
 
@@ -15,13 +15,13 @@ Threshold Optimization: Investigating and optimizing prediction thresholds to ba
 
 Explore the code in the directory and adapt it to your specific use case.
 
-Contribute:
+**Contribute**
 Found a bug or have an improvement? Feel free to contribute by opening an issue or creating a pull request!
 
-Project Status
+**Project Status**
 This project is actively under development, and contributions are welcome. Check the Issues tab for planned enhancements and known issues.
 
-Acknowledgments
+**Acknowledgments**
 Special thanks to the Polars community for their powerful data manipulation library.
 
 Author
