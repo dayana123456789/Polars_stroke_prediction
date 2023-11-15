@@ -1,6 +1,7 @@
 # ***Stroke Prediction: Harnessing the Power of Polars DataFrames***
 
-Overview
+**Overview**
+
 Welcome to the Stroke Prediction Project! This project focuses on predicting strokes efficiently using Polars DataFrames, avoiding the conventional use of Pandas for streamlined data processing and analysis.
 
 **Project Highlights**
